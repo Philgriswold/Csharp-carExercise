@@ -1,0 +1,11 @@
+/Users/PhilGriswold/Applications/workspace/ClassIntro/obj/Debug/netcoreapp3.0/ClassIntro.csprojAssemblyReference.cache
+/Users/PhilGriswold/Applications/workspace/ClassIntro/obj/Debug/netcoreapp3.0/ClassIntro.AssemblyInfoInputs.cache
+/Users/PhilGriswold/Applications/workspace/ClassIntro/obj/Debug/netcoreapp3.0/ClassIntro.AssemblyInfo.cs
+/Users/PhilGriswold/Applications/workspace/ClassIntro/bin/Debug/netcoreapp3.0/ClassIntro
+/Users/PhilGriswold/Applications/workspace/ClassIntro/bin/Debug/netcoreapp3.0/ClassIntro.deps.json
+/Users/PhilGriswold/Applications/workspace/ClassIntro/bin/Debug/netcoreapp3.0/ClassIntro.runtimeconfig.json
+/Users/PhilGriswold/Applications/workspace/ClassIntro/bin/Debug/netcoreapp3.0/ClassIntro.runtimeconfig.dev.json
+/Users/PhilGriswold/Applications/workspace/ClassIntro/bin/Debug/netcoreapp3.0/ClassIntro.dll
+/Users/PhilGriswold/Applications/workspace/ClassIntro/bin/Debug/netcoreapp3.0/ClassIntro.pdb
+/Users/PhilGriswold/Applications/workspace/ClassIntro/obj/Debug/netcoreapp3.0/ClassIntro.dll
+/Users/PhilGriswold/Applications/workspace/ClassIntro/obj/Debug/netcoreapp3.0/ClassIntro.pdb
